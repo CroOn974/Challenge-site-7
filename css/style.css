@@ -1,0 +1,116 @@
+body header nav {
+  background-color: #b5ce00;
+  width: 1080px;
+  margin: auto;
+  margin-bottom: 30px; }
+  body header nav ul li {
+    margin-right: 15px;
+    display: inline-block; }
+    body header nav ul li a {
+      display: block;
+      text-decoration: none;
+      color: #fff; }
+    body header nav ul li a:hover {
+      text-decoration: none;
+      color: #b5ce00; }
+
+.slide {
+  background-color: #f2f2f2; }
+  .slide aside {
+    padding-top: 32px;
+    padding-bottom: 32px;
+    margin: auto; }
+    .slide aside img {
+      margin-right: 0px;
+      margin-left: 33px; }
+
+section div .placement {
+  margin-top: 50px;
+  padding: 0px;
+  padding-bottom: 15px;
+  margin-left: 15px;
+  border-bottom: 1px solid #d9d9d9; }
+section div div aside .mobile {
+  background-color: #f2ab35;
+  position: absolute;
+  top: 0px;
+  left: 25px;
+  width: 65px;
+  height: 25px;
+  text-align: center;
+  color: #fff;
+  font-size: 10px;
+  line-height: 25px; }
+section div div aside .application {
+  background-color: #b5ce00;
+  position: absolute;
+  top: 0px;
+  left: 25px;
+  width: 100px;
+  height: 25px;
+  text-align: center;
+  color: #fff;
+  font-size: 10px;
+  line-height: 25px; }
+section div div aside .objetco {
+  background-color: #b5ce00;
+  position: absolute;
+  top: 0px;
+  left: 25px;
+  width: 130px;
+  height: 25px;
+  text-align: center;
+  color: #fff;
+  font-size: 10px;
+  line-height: 25px; }
+section div div article h2 {
+  font-size: 26px;
+  margin-top: 10px; }
+
+.date {
+  font-size: 11px; }
+
+p {
+  font-size: 13px; }
+
+.article {
+  display: flex; }
+
+.taille {
+  width: 700px;
+  margin-left: 16px;
+  margin-right: 25px; }
+
+.droite {
+  width: 370px;
+  margin-top: 25px;
+  border-left: 1px solid #d9d9d9;
+  padding-left: 15px; }
+  .droite section section h3 {
+    background-color: #b5ce00;
+    height: 36px;
+    font-size: 11px;
+    line-height: 36px;
+    margin-left: 14px;
+    padding-left: 10px;
+    color: #fff; }
+  .droite section section h4 {
+    margin: 0px; }
+  .droite section section .button {
+    margin: 0px 0px 15px -15px; }
+  .droite section section label {
+    font-weight: lighter; }
+  .droite section section .col-md-12 {
+    margin-top: 15px; }
+  .droite section section .coller {
+    margin-left: -30px; }
+  .droite section section a {
+    color: black; }
+
+.social {
+  margin-top: 30px; }
+
+.option p {
+  margin-top: 10px; }
+
+/*# sourceMappingURL=style.css.map */

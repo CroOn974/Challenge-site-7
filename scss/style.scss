@@ -1,0 +1,176 @@
+$backgroundtitre:#b5ce00;
+$coleurtitre:#fff;
+
+body{
+    header{
+          nav{
+            background-color: $backgroundtitre;
+            width: 1080px;
+            margin: auto;
+            margin-bottom: 30px;
+              ul{
+                li{
+                  margin-right: 15px;
+                  display: inline-block;
+                    a{
+                      display: block;
+                      text-decoration:none;
+                      color: #fff;
+
+                    }
+                    a:hover{
+                      text-decoration: none;
+                      color: $backgroundtitre;
+
+                    }
+                  }
+              }
+            }
+          }
+        }
+
+.slide{
+    background-color: #f2f2f2;
+    aside{
+      padding-top:32px;
+      padding-bottom: 32px;
+      margin: auto;
+      img{
+        margin-right: 0px;
+        margin-left: 33px;
+      }
+    }
+}
+
+section{
+      div{
+        .placement{
+          margin-top: 50px;
+          padding: 0px;
+          padding-bottom: 15px;
+          margin-left: 15px;
+          border-bottom: 1px solid #d9d9d9;
+        }
+          div{
+            aside{
+
+              .mobile{
+                background-color: #f2ab35;
+                position: absolute;
+                top: 0px;
+                left: 25px;
+                width: 65px;
+                height: 25px;
+                text-align: center;
+                color: #fff;
+                font-size: 10px;
+                line-height: 25px;
+
+              }
+              .application{
+                background-color: $backgroundtitre;
+                position: absolute;
+                top: 0px;
+                left: 25px;
+                width: 100px;
+                height: 25px;
+                text-align: center;
+                color: #fff;
+                font-size: 10px;
+                line-height: 25px;
+
+              }
+              .objetco{
+                background-color: $backgroundtitre;
+                position: absolute;
+                top: 0px;
+                left: 25px;
+                width: 130px;
+                height: 25px;
+                text-align: center;
+                color: #fff;
+                font-size: 10px;
+                line-height: 25px;
+              }
+
+            }
+            article{
+                  h2{
+                    font-size: 26px;
+                    margin-top: 10px;
+
+                  }
+                }
+              }
+            }
+          }
+
+.date{
+  font-size: 11px;
+}
+
+p{
+  font-size: 13px;
+}
+
+.article{
+  display: flex;
+}
+
+.taille{
+  width: 700px;
+  margin-left: 16px;
+  margin-right: 25px;
+
+}
+
+.droite{
+        width: 370px;
+        margin-top: 25px;
+        border-left: 1px solid #d9d9d9;
+        padding-left: 15px;
+        section{
+                section{
+                        h3{
+                          background-color: $backgroundtitre;
+                          height: 36px;
+                          font-size: 11px;
+                          line-height: 36px;
+                          margin-left: 14px;
+                          padding-left: 10px;
+                          color: $coleurtitre;
+                        }
+                        h4{
+                          margin: 0px;
+                        }
+
+                        .button{
+                          margin: 0px 0px 15px -15px;
+
+                        }
+                        label{
+                          font-weight: lighter;
+
+                        }
+                        .col-md-12{
+                          margin-top: 15px;
+                        }
+                        .coller{
+                          margin-left: -30px;
+                        }
+                        a{
+                          color: black;
+                        }
+
+                }
+        }
+}
+
+
+.social{
+margin-top: 30px;
+}
+
+.option p{
+  margin-top: 10px;
+}
